@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rushikesh Chaudhari
 - 👀 I’m interested in building amazing stuff
 - 🌱 I’m currently shipping amazing UIs built using Next14 to production 
-- 📫 Also me - @rushi-173
+- 📫 Also me - [@rushi-173](https://github.com/rushi-173)
 - 😄 Pronouns: He/Him
 
 <!---
