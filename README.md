@@ -1,7 +1,7 @@
 ### Hey buddy 👋,
 
 - 👋 Hi, I’m Rushikesh Chaudhari
-- 👀 I’m building amazing stuff MagicStudio
+- 👀 I’m building amazing stuff
 - 🌱 I’m currently shipping amazing UIs built using "NextJS 14" to production 
 - 😄 Pronouns: He/Him
 
