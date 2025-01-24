@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Rushikesh Chaudhari
 - 👀 I’m building amazing stuff MagicStudio
 - 🌱 I’m currently shipping amazing UIs built using "NextJS 14" to production 
-- 📫 Also me - rushi-173
 - 😄 Pronouns: He/Him
 
 <!---
